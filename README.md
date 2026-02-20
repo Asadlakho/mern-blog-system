@@ -1,4 +1,4 @@
-🚀 Blog Management System
+🚀 Blog Management System :
 Enterprise-Scale MERN Platform | Secure • Modular • Production-Engineered
 
 A professionally engineered full-stack Blog Management System built using the MERN architecture.
