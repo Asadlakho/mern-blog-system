@@ -168,8 +168,7 @@ The system is structured to support future enhancements such as role-based acces
 
 ⚙ Development Setup
 Clone Repository
-git clone https://github.com/yourusername/blog-management-system.git
-Install Backend Dependencies
+git clone https://github.com/AsadLakho/blog-management-system.gitInstall Backend Dependencies
 cd server
 npm install
 Install Frontend Dependencies
